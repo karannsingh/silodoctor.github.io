@@ -1,0 +1,9 @@
+﻿*{
+    font-family: 'Lato';
+}
+
+.navbar-brand{
+    font-family: 'Pacifico';
+    font-size:35px;
+    color: lightcarol !important;
+}
